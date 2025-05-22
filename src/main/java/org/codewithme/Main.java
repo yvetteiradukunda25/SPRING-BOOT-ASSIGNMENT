@@ -1,4 +1,4 @@
-package org.codewithmosh;
+package org.codewithme;
 
 public class Main {
     public static void main(String[] args) {
